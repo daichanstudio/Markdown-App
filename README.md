@@ -2,6 +2,9 @@
 You can see all of my original app on "Markdown-App" . Please check them out!
 <img width="1440" alt="スクリーンショット 2021-08-09 9 28 48" src="https://user-images.githubusercontent.com/72646084/128771849-7c739d7b-6409-4758-8d7f-5bcb21836c0f.png">
 
+# Deploy on Firebase
+https://markdown-app-16b04.web.app
+
 
 # Features
 I'm using TypeScript.
@@ -22,14 +25,6 @@ I don't test environments under Linux and Windows.
  
 "Markdown-App" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
-
-
-# Deploy on Firebase
-https://markdown-app-16b04.web.app
-
- 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
 
