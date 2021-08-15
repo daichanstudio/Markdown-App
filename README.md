@@ -5,7 +5,6 @@ You can see all of my original app on "Markdown-App" . Please check them out!
 # Deploy on Firebase
 https://markdown-app-16b04.web.app
 
-
 # Features
 I'm using TypeScript.
  
